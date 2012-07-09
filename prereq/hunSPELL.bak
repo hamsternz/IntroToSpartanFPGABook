@@ -1,0 +1,15 @@
+Prerequisite skills
+-------------------
+
+Here is the skills that I think are required for somebody wanting to
+learn to program FPGAs. None of these are essential, but I will assume
+that you have them during this book, and won't bother delving into them.
+If you are particularly week in any areas then be prepared to learn!
+
+* Programming ability in a low level language (e.g. 'C' or assembler)
+
+Do you know what a byte is, how many bits and what it can hold? What does
+a bit shift two bits to the left do? What happens when you treat an unsigned
+number as signed? Do you have any idea of the ASCII code for ''Z''?
+
+* Familiarity with the basic boolean operations
