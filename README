@@ -2,12 +2,17 @@ Hi,
 
 I'm hamster@snap.net.nz and working on this book.
 
-I'll keep an up to date copy of the PDF file in the
-repository for you.
+I'll keep an up to date copy of the PDF file in the repository for you.
 
 It is written in ASCIDOC and can be used to generate
 a pdf using the included Makefile.  Please send me any
 updates you would like.
+
+Cover page
+==========
+
+Sorry but I can't get ASCIIDOC to put a graphic on the front page,
+so I've made "cover.jpg" for you to print out seperately if you wish!
 
 
 UCF File Syntax highlighting
@@ -25,7 +30,6 @@ into /usr/share/texmf/tex/latex/listings/lstlang1.sty:
    morestring=[d]{"}%
   }[keywords,comments,strings]%
 
-This was just a quick hack - if you know some better way
-let me know.
+This was just a quick hack - if you know some better way let me know.
 
 Thanks
